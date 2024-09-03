@@ -1,5 +1,5 @@
 <h1 align="center">I'm Caio Marins!</h1>
-<h3 align="center">A Backend developer from Brazil/São Paulo, studying at "Systems Development" by ETEC Albert Einstein</h3>
+<h3 align="center">A Full-stack developer from Brazil/São Paulo, studying at "Systems Development" by ETEC Albert Einstein</h3>
 
 - I’m currently studing for **my Final Paper**
 
