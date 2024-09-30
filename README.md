@@ -1,7 +1,5 @@
 <h1 align="center">I'm Caio Marins!</h1>
-<h3 align="center">A Full-stack developer from Brazil/São Paulo, with 2 formations "Systems Development"</h3>
-
-- I’m currently studing "Desenvolvimento Web" on IOS(Instituto da Oportunidade Social)
+<h3 align="center">A Full-stack Systems Developer from Brazil/São Paulo</h3>
 
 - 📫 How to reach me **caio.marins011@gmail.com**
 
