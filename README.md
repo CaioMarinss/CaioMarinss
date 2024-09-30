@@ -1,5 +1,5 @@
 <h1 align="center">I'm Caio Marins!</h1>
-<h3 align="center">A Full-stack Systems Developer from Brazil/São Paulo</h3>
+<h3 align="center">A Developer from Brazil/São Paulo</h3>
 
 - 📫 How to reach me **caio.marins011@gmail.com**
 
