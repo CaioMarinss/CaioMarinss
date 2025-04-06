@@ -3,17 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cléo+Leal;I'm+19+years+old;I'm+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CleoLeal&show_icons=true&count_private=true&hide_border=true&title_color=996699&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117" alt="Cléo Leal github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleoLeal&layout=compact&hide_border=true&title_color=996699&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Caio&show_icons=true&count_private=true&hide_border=true&title_color=996699&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117" alt="Caio Marins github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMarinss&layout=compact&hide_border=true&title_color=996699&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JS](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp; 
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp; 
-![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp; 
-![DOCKER](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)&nbsp; 
+![JAVA](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp; 
+![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-0D1117?style=flat-square&logo=Spring&logoColor=white)&nbsp; 
+![DOCKER](https://img.shields.io/badge/docker-0D1117?style=for-the-badge&logo=docker&logoColor=white)&nbsp; 
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp;
